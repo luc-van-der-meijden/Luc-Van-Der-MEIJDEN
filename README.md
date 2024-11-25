@@ -1,4 +1,3 @@
-<span style="color:white; background-color:black">
 👋 Bonjour, je suis Luc van der Meijden <br/>
 <BLOCKQUOTE>Passionné par la cybersécurité, je suis spécialisé dans l'analyse des systèmes, la protection des données, et le renforcement des infrastructures numériques. Je m'efforce de créer des solutions sécurisées, performantes, et adaptées aux besoins actuels.</BLOCKQUOTE>
 <br/><br/>
@@ -17,5 +16,3 @@
 🌐 Me retrouver ailleurs<br/>
   <BLOCKQUOTE>📸 Instagram - lucvandermeijden<br/>
   ✉️ vanderluc@icloud.com</BLOCKQUOTE>
-</span>
-
