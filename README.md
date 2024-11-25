@@ -29,7 +29,7 @@ Partage de connaissances sur la cybersécurité.
 
 🌐 **Me retrouver ailleurs**  
 <blockquote>
-📸 [Instagram - lucvandermeijden](https://www.instagram.com/lucvandermeijden)  
+📸 Instagram - @lucvandermeijden
 ✉️ vanderluc@icloud.com  
 </blockquote>
 
