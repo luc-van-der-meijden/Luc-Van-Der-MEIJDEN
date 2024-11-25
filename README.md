@@ -1,6 +1,6 @@
 <div align="center">
 
-![Image de base de mon Readme](Image-Base.webp)
+![Image de base de mon Readme](DALL·E 2024-11-25 15.00.15 - A visually captivating illustration representing Luc van der Meijden's GitHub profile, blending web development and cybersecurity themes. On the left,.webp)
 
 # 👋 Bonjour, je suis **Luc van der Meijden**
 
