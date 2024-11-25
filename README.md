@@ -1,5 +1,7 @@
 <div align="center">
 
+![Image de base de mon Readme](Image-Base.webp)
+
 # 👋 Bonjour, je suis **Luc van der Meijden**
 
 > Passionné par la cybersécurité, je suis spécialisé dans l'analyse des systèmes,  
